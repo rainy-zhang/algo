@@ -63,7 +63,7 @@ public class QuickSort implements Sort {
                 }
                 right--;
             }
-            
+
             while (right > left) {
                 if (array[left] > pivot) {
                     array[right] = array[left];

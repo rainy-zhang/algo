@@ -8,7 +8,7 @@ package search;
  * @author zhangyu
  */
 public interface Search {
-    
+
     int search(int[] array, int value);
-    
+
 }

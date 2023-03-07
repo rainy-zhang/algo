@@ -33,7 +33,7 @@ public class MergeSort implements Sort {
         int[] tempArray = new int[right - left + 1];
 
         // 临时数组下标
-        int k = 0; 
+        int k = 0;
         int l = left;
         int r = middle + 1;
 
